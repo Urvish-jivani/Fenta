@@ -1,0 +1,60 @@
+
+
+.main1{
+    display: flex;
+    background-color: black ;
+    color:#ffbe33;
+    width: 100%;
+    padding-bottom: 20%;
+
+}   
+
+.form{
+    width: 50%;
+    background-image: url(./image/logo.png);
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+    margin-top: 20px;
+    padding-bottom: 60px;
+
+}
+
+.form input{
+    height: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form select{
+    height: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.img{
+    padding: 20px;
+    padding-top: 80px;
+}
+
+.img img{
+    height: 490px;
+
+}
+
+.btn{
+    background-color: #ffbe33;
+    border: 0;
+    border-radius: 25px;
+    height: 50px;
+    width: 150px;
+    margin-left: 20px;
+}
+
+.btn a{
+   color: white;
+    text-decoration: none;
+   
+}
+
+    

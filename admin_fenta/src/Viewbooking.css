@@ -1,0 +1,30 @@
+.img_viewdata img{
+    height: 240px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .title_viewdata{
+    margin-left: 350px;
+    margin-bottom: 50px;
+  }
+  
+  .mb-3 input{
+    border: transparent;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 0;
+    
+  }
+  
+  .main_viewdata{
+    display: flex;
+  }
+  
+  .sub1_viewdata h3{
+    margin: 12px;
+  }
+  
+  #date{
+    margin-top: 20px;
+  }
